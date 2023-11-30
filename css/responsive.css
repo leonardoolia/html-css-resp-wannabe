@@ -2,9 +2,9 @@
 
 @media screen and (max-width: 768px) {
 
-    /* Header centrato */
-    .site-header {
-        width: 1140px;
+    /* Container nella sezione lessons centrato */
+    .lessons .container {
+        max-width: 768px;
     }
 
     /* Card della sezione lessons più vicine tra loro */
