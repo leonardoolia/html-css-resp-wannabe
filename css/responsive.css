@@ -1,0 +1,18 @@
+/* ? DAI 768PX IN GIU' */
+
+@media screen and (max-width: 768px) {
+
+    /* Header centrato */
+    .site-header {
+        width: 1140px;
+    }
+
+    /* Card della sezione lessons più vicine tra loro */
+    /* .lessons .col {
+        width: 33%;
+    }
+
+    .steps {
+        width: 1140px;
+    } */
+}
