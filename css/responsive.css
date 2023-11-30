@@ -19,23 +19,6 @@
         gap: 80px;
     }
 
-    /* Ingrandire le immagini */
-    /* .lessons .col img {
-        scale: 1.5;
-        margin: 50px 0;
-    }
-
-    .steps .col img {
-        scale: 2;
-        margin: 50px 0;
-    }
-
-    .col-left img {
-        scale: 1.5;
-        margin: 50px 0 100px 0;
-    } */
-
-
     /* Ingrandire le colonne nella sezione lessons */
     .lessons .col {
         width: 60%;
@@ -50,5 +33,29 @@
     .steps p {
         width: 60%;
         margin: 0 auto;
+    }
+
+    /* Ingrandire immagine e centrare titolo nella sezione why us */
+
+
+    .why-us .col-left {
+        width: 60%;
+        padding: 0;
+        margin-top: 40px;
+    }
+
+    .why-us h2 {
+        margin: 0 auto;
+        width: 60%;
+    }
+
+    /* Allungare paragrafi e ingrandire titoli h3 nella sezione why us */
+
+    .why-us .col-right {
+        width: 70%
+    }
+
+    .why-us h3 {
+        font-size: 1.8rem;
     }
 }
