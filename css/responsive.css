@@ -40,4 +40,15 @@
     .lessons .col {
         width: 60%;
     }
+
+
+    /* Ingrandire immagini e centrare testo nella sezione steps */
+    .steps .col {
+        width: 100%
+    }
+
+    .steps p {
+        width: 60%;
+        margin: 0 auto;
+    }
 }
