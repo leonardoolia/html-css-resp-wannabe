@@ -16,10 +16,11 @@
     .row {
         flex-direction: column;
         align-items: center;
+        gap: 80px;
     }
 
     /* Ingrandire le immagini */
-    .lessons .col img {
+    /* .lessons .col img {
         scale: 1.5;
         margin: 50px 0;
     }
@@ -32,5 +33,11 @@
     .col-left img {
         scale: 1.5;
         margin: 50px 0 100px 0;
+    } */
+
+
+    /* Ingrandire le colonne nella sezione lessons */
+    .lessons .col {
+        width: 60%;
     }
 }
